@@ -4,6 +4,7 @@
 
 #### CONTENTS
  The Shaders included here are mostly from the Unity Asset Store, i bought them and thought they would be great additions for ReShade, here's what it includes:
+ - Camera Filter Pack by Vetasoft: Various Artistic and Novelty effects for Unity. Ported a few from there, nothing in specific. Only the ones that caught my eye. (https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/camera-filter-pack-18433)
  - Darkbringer Retro Shader by Darkbringer: Uses LUTs based on old-game palettes and Dithering using PNG images. (https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/darkbringer-retro-shader-57038)
  - Dithering Megapack by Grey Golem Studios: Similar to Darkbringer's Retro Shader, it also palettizes the image using old game palettes and applies dithering using PNG textures. (https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/dithering-megapack-63982) (Removed from the Asset Store)
  - EasyVHS by Grey Golem Studios: A NTSC / CRT emulation shader. Contains code from MAME for the NTSC and other random sources for the rest of the effects. (https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/easy-vhs-63898) (Removed from the Asset Store)

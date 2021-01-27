@@ -15,7 +15,7 @@
 
 #### PARTNER REPOSITORIES
 
-Those repositories might also have something you like, make sure to check them out!
+Those repositories might also have something you like, make sure to check them out! 
 [Matsilagi/RSRetroArch](https://github.com/Matsilagi/RSRetroArch) - My reorganized Retro Shaders / RetroArch shader repository. The only one i'll link here for obvious reasons.
 	 
 #### CREDITS

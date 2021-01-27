@@ -1,4 +1,4 @@
-# RSRetroArch
+# RSUnityShaders
  Repository of grey-area ported Unity shaders.
  If you like what you see, plase support the original creators and buy their assets on the Unity store! Even if you ain't gonna use them, as a thank you for the work!
 

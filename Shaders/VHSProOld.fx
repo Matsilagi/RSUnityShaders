@@ -4,7 +4,7 @@
 	Ported by Marty McFly and Matsilagi	
 */
 
-#include "ReShade.fxh";
+#include "ReShade.fxh"
 
 uniform float screenLinesNum <
 	ui_type = "drag";
